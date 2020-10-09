@@ -1,0 +1,7 @@
+#container {
+  height: 150px;/*Only for the demo.*/
+  background-color:green;/*Only for the demo.*/
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
