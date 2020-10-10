@@ -21,6 +21,6 @@ What I was proud of was the use of grid and flexbox on the same page of the phot
 
 I used git in vscode and I accidently left comments on multiple files. The comment was meant for the comments.html file for implementing a place where the comments can be stored and implementing validation.
 
-Files photos.old, test.html, test.css, and test.js were used for testing purposes and do not apply to my project, but I left them there regardless.
+Files centerviewport.html, photos.old, test.html, test.css, and test.js were used for testing purposes and do not apply to my project, but I left them there regardless.
 
 In my actual project I did comment out code I would not use, and I know it's not the best practice in actual coding environments, but I left it anyway. It shows trial and error.
