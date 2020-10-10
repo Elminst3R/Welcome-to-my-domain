@@ -13,7 +13,7 @@ I would also change how the mega menu is acessed. Right now it's both hover and 
 I want to play around with picture-in-picture mode. It's not convenient to play the music video in the background and when it comes to navgating to other parts of the website the music stops playing.
 Mega menu needs the links added to HTML and CSS.
 
-I did not write 100% of the code from scratch as I did use code from W3schools.com, stackoverflow, and code from google searches, but I did change it up to make it mine. I do understand a lot of the concepts and what most of the code does, but the only section I don't understand is the embedding of the youtube video on my page that is responsive with the page. It works though. I need to learn.
+I did not write 100% of the code from scratch as I did use code from W3schools.com, stackoverflow, and code from google searches, but I did change it up to make it mine in some areas. I do understand a lot of the concepts and what most of the code does, but the only section I don't understand is the embedding of the youtube video on my page that is responsive with the page. It works though. I need to learn.
 
 Anyway, the way I gained underanding of most of the code is use documentation, as well as use /*border: 5px solid red;*/ extensively to see how each element is affected in CSS and figure out what the code does under each element. That was honestly the best way to learn. Coding in CSS is so very particular as every item needs instruction, but that applies to general coding.
 
