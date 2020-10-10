@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="/images/Throne of Bhaal Icon [242 x 242].ico"/>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="/css/style.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <title>Elminst#R</title>
 </head>
@@ -57,13 +57,13 @@
   
   <div class="col-6 col-s-9 container">
     <h1 id="commentspadding">Comments:</h1>
-    <form action="action_page.php">
+    <form name="comments" action="https://formspree.io/f/xqkgejgy" onsubmit="return validateForm()" method="POST">
       <div class="row">
         <div class="col-25">
           <label for="fname">First Name</label>
         </div>
         <div class="col-75">
-          <input type="text" id="fname" name="firstname" placeholder="Your name...">
+          <input type="text" id="fname" name="firstname" placeholder="Your name">
         </div>
       </div>
       
@@ -72,7 +72,7 @@
           <label for="fname">First Name</label>
         </div>
         <div class="col-75">
-          <input type="text" id="lname" name="lastname" placeholder="Your last name...">
+          <input type="text" id="lname" name="lastname" placeholder="Your last name">
         </div>
       </div>
       
@@ -82,7 +82,8 @@
         </div>
         <div class="col-75">
           <select id="country" name="country">
-            <option value="" selected="selected">Select Country</option> 
+            <option value="" selected="selected">Select Country</option>
+            <option value="Faerûn">Faerûn</option> 
             <option value="United States">United States</option> 
             <option value="United Kingdom">United Kingdom</option> 
             <option value="Afghanistan">Afghanistan</option> 
@@ -330,7 +331,7 @@
       
       <div class="row">
         <div class="col-25">
-          <label for="subject">Subject</label>
+          <label for="subject">Comments</label>
         </div>
         <div class="col-75">
           <textarea id="subject" name="subject" placeholder="Write something..." style="height:200px"></textarea>
