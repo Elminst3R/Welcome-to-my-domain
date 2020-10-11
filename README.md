@@ -11,7 +11,6 @@ The project is a simple sample personal website in which the user can access som
 To improve the website, I would play around with the scaling ratios to create a better user experience on a tablet because things look a bit awkward in that mode. Probably mobile and desktop adjustment as well.
 I would also change how the mega menu is accessed. Right now, it's both hover and click and the implementation is not that great, but I would change it only to click. Hover does not work on a mobile device. When inspecting the website on a desktop browser hover works fine, but the true test is accessing the website on a mobile device via localhost which I did while connected to WIFI to my router by typing the ip address of my desktop machine and the local server port on my mobile device.
 I want to play around with picture-in-picture mode. It's not convenient to play the music video in the background and when it comes to navigating to other parts of the website the music stops playing.
-Mega menu needs the links added to HTML and CSS.
 
 I did not write 100% of the code from scratch as I did use code from W3schools.com, stackoverflow, and code from google searches, but I did change it up to make it mine in some areas. I do understand a lot of the concepts and what most of the code does, but the only section I don't understand is the embedding of the YouTube video on my page that is responsive with the page. It works though. I need to learn.
 
