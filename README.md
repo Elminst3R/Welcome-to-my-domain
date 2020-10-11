@@ -6,7 +6,7 @@ As a user, I want the website to be accessible on desktop and mobile, so I do no
 As a user, I want the website to have a comment section, so I can act on feedback received.
 As a user, I want the website to have a news section, so I can stay up to date with any new events that come up.
 
-The project is a simple sample personal website in which the user can access some about me information, scroll through photos, leave comments, view news, donate to see how the donation link works, follow on social media, access html, css, and js documentation for whatever reason, and access a mega menu that at the time does nothing due to time constraints of the project.
+The project is a simple sample personal website in which the user can access some about me information, scroll through photos, leave comments, view news, donate to see how the donation link works, follow on social media, access html, css, and js documentation for whatever reason, and access a mega menu.
 
 To improve the website, I would play around with the scaling ratios to create a better user experience on a tablet because things look a bit awkward in that mode. Probably mobile and desktop adjustment as well.
 I would also change how the mega menu is accessed. Right now, it's both hover and click and the implementation is not that great, but I would change it only to click. Hover does not work on a mobile device. When inspecting the website on a desktop browser hover works fine, but the true test is accessing the website on a mobile device via localhost which I did while connected to WIFI to my router by typing the ip address of my desktop machine and the local server port on my mobile device.
